@@ -6,6 +6,9 @@ Claude Code skills. Each skill lives under `skills/<skill-name>/SKILL.md`.
 
 ```text
 /plugin marketplace add charlotte-zhuang/skills
+```
+
+```text
 /plugin install skills@charlotte-zhuang
 ```
 
@@ -15,6 +18,10 @@ To update later:
 
 ```text
 /plugin marketplace update charlotte-zhuang
+```
+
+```text
+/reload-plugins
 ```
 
 ## Skills in this plugin
