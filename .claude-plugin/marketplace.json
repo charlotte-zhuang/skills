@@ -1,0 +1,16 @@
+{
+  "name": "charlotte-zhuang",
+  "owner": {
+    "name": "charlotte-zhuang"
+  },
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./",
+      "description": "Custom Claude Code skills.",
+      "author": {
+        "name": "charlotte-zhuang"
+      }
+    }
+  ]
+}
