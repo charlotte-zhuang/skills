@@ -1,7 +1,8 @@
 ---
 name: private-fork
-description: Set up a private fork of a public git repo by redirecting pushes to a private remote while keeping the public source as a read-only upstream. Use this skill whenever the user wants to create a private fork, private mirror, internal copy, or vendored copy of a public repository — phrases like "make a private fork", "mirror this repo to a private one", "set up a private copy of <repo>", "redirect this clone to my org's private GitHub", or when they hand over a private repo URL and ask to point this repo (or a public one) at it for pushing. Also trigger when they're in a freshly cloned public repo and mention wanting to push their work somewhere private instead.
+description: Set up a private fork of a public git repo.
 argument-hint: "[private-url] [public-url] [target-dir]"
+when_to_use: Use this skill whenever the user wants to create a private fork, private mirror, internal copy, or vendored copy of a public repository — phrases like "make a private fork", "mirror this repo to a private one", "set up a private copy of <repo>", "redirect this clone to my org's private GitHub", or when they hand over a private repo URL and ask to point this repo (or a public one) at it for pushing. Also trigger when they're in a public repo and mention wanting to push their work somewhere private instead.
 ---
 
 # Private fork setup
