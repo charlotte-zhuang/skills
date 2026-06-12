@@ -27,3 +27,4 @@ To update later:
 ## Skills in this plugin
 
 - **/private-fork** — Set up a private fork of a public git repo: redirect `origin` to a private remote and keep the public source as a fetch-only `upstream`.
+- **/hermes-tweet** — Install and operate Hermes Tweet for Hermes Agent X/Twitter search, reads, and gated actions.
