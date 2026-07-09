@@ -12,7 +12,7 @@ Claude Code skills. Each skill lives under `skills/<skill-name>/SKILL.md`.
 /plugin install skills@charlotte-zhuang
 ```
 
-After install, the skills become available in any Claude Code session — no per-repo setup needed.
+After install, the skills become available in any Claude Code session - no per-repo setup needed.
 
 To update later:
 
@@ -26,4 +26,5 @@ To update later:
 
 ## Skills in this plugin
 
-- **/private-fork** — Set up a private fork of a public git repo: redirect `origin` to a private remote and keep the public source as a fetch-only `upstream`.
+- **/private-fork** - Set up a private fork of a public git repo: redirect `origin` to a private remote and keep the public source as a fetch-only `upstream`.
+- **/xquik** - Plan Xquik REST API or MCP workflows for X data, exports, monitors, webhooks, and approval-gated X actions.
